@@ -1,5 +1,27 @@
-### Hi there 👋
-
+#About me 
+```json
+{
+  "name": "Lucas Aguiar",
+  "pronouns": "he/him"
+  "education": {
+    "school": "York University",
+    "program": "Computer Science",
+    "yearsOfStudy": "2019-2024"
+  },
+  "experience": [
+    {
+      "company": "CaseWare",
+      "position": "Software Engineer Intern",
+      "timeframe": "Sep. 2022 - Apr. 2023"
+    },
+    {
+      "company": "VerticalScope",
+      "position": "Quality Engineer Intern",
+      "timeframe": "Sep. 2021 - Dec. 2021"
+    }
+  ]
+}
+```
 <!--
 **lucasabr/lucasabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
