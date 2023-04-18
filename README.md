@@ -20,9 +20,10 @@
       "period": "Sep. 2021 - Dec. 2021"
     }
   ],
-  "links": [
-    "www.linkedin.com/in/-lucasaguiar/"
-  ]
+  "links": {
+    "website": "www.lucasaguiar.ca",
+    "linkedin": "www.linkedin.com/in/-lucasaguiar/"
+  }
 }
 ```
 <!--
