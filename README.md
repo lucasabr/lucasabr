@@ -9,6 +9,11 @@
     "yearsOfStudy": "2019-2024"
   }],
   "experience": [
+     {
+      "company": "CaseWare",
+      "position": "Software Engineer",
+      "period": "May. 2023 - Apr. 2024"
+    },
     {
       "company": "CaseWare",
       "position": "Software Engineer Intern",
